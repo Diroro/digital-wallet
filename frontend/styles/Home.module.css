@@ -1,0 +1,68 @@
+.container {
+	width: 640px;
+	margin: auto;
+	border: 1px solid white;
+	display: flex;
+	flex-direction: column;
+}
+
+.main {
+	padding: 16px;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: flex-start;
+	width: 640px;
+	margin: auto;
+	border: 1px solid white;
+}
+
+.header {
+	padding: 16px;
+}
+
+.table {
+	padding: 8px;
+	border: 1px solid white;
+	margin: 8px 0;
+}
+
+.table td {
+	padding: 8px;
+	text-align: right;
+}
+
+.actions {
+	display: flex;
+}
+
+.actions button {
+	margin-right: 8px;
+}
+
+.historyContainer {
+	margin-top: 16px;
+}
+
+.back {
+	margin: 8px 0;
+}
+
+.loginForm {
+	display: flex;
+	flex-direction: column;
+}
+
+.loginForm input {
+  margin-top: 8px;
+}
+
+
+.transferForm {
+  display: flex;
+  flex-direction: column;
+}
+
+.transferForm > * {
+  margin-bottom: 8px;
+}

@@ -47,4 +47,4 @@ Backend app contains 3 controllers:
 
 The application uses WebmoneyService as mock of external service that was described in requirements.
 
-![Architecture](https://github.com/diroro/digital-wallet/blob/master/architecture.png?raw=true)
+![Architecture](https://github.com/diroro/digital-wallet/blob/main/architecture.png?raw=true)
